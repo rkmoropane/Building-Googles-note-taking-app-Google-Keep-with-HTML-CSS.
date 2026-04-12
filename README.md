@@ -9,6 +9,8 @@ In this project I will set up my HTML & CSS-only app. I am cloning the Google's 
 HTML, CSS, Introduction to JavaScript, Introduction to Object-Oriented Programming.
  ___
 
+## Position property:
+When using `position: absolute;`, you can use the `top`, `bottom`, `right`, and `left` properties to control the exact position of the element.
 
 ## Questions and answers:
 
@@ -56,5 +58,32 @@ HTML, CSS, Introduction to JavaScript, Introduction to Object-Oriented Programmi
 
 - **Which CSS property is used to set the space between the content and the border of an element?**
  > padding
+
+- **What is the primary purpose of the :hover class in CSS?**
+ > To style an element when it is hovered over with the mouse pointer
+
+- **Which CSS selector is used to apply styles to an element when the mouse pointer hovers over it?**
+ > :hover
+
+- **Which of the following properties can be modified using the :hover pseudo-class?**
+ > Background color
+
+- **Which CSS property can you use in conjunction with position: absolute; to precisely control the position of an element?**
+ > top, right, bottom, and left
+
+- **What does the opacity property in CSS control?*8
+ > The transparency of an element
+
+- **When you set opacity: 0; for an element, what happens to the element?**
+ > It becomes fully transparent and invisible
+
+- **What does the CSS property overflow-x: hidden do?**
+ > It hides the horizontal scrollbar of an element
+
+- **How does the CSS property flex-direction: column affect the layout of flexbox items?**
+ > It arranges flex items in a vertical column
+
+- **What does the nth-child selector do in CSS?**
+ > It selects specific child elements based on their position in the parent
 
 - **
