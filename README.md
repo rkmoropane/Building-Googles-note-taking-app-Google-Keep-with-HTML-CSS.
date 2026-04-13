@@ -150,3 +150,6 @@ When using `position: absolute;`, you can use the `top`, `bottom`, `right`, and 
  > Fixes the element's position relative to the viewport, even when scrolling
 
 - **
+
+## Certificate:
+![Certificate-for-Google-Keep-App](Build-Google-Notes-Keep-App-with-HTML-CSS-only-Certificate.png)
